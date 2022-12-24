@@ -3,3 +3,4 @@ django
 django-bootstrap4
 python-docx
 lxml
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
